@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " T ",
+        "S  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:pitcher_plant"
+        },
+        "T": {
+            "item": "minecraft:torchflower"
+        },
+        "S": {
+            "item": "minecraft:sniffer_egg"
+        }
+    },
+    "result": {
+        "id": "sniffercraft:sniffer_sword",
+        "count": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "llama.administration.tatakei.sniffer.jam.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
